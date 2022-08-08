@@ -18,7 +18,7 @@ Run main.py with paths to images and file saves a JSON file of results. Please s
 
 Results return a list per metric of objects identified top-to-bottom-left-to-right.
 
-Example:
+Mock example results:
 
 {
     "Area, sq.um": [
