@@ -1,6 +1,6 @@
 # Retinal Explant Metrics
 
-The following repository is home to the code used for the image analysis of **Improved handling and embedding schemes for cultured murine neuroretinal explants **. The code has been modified for reproducibilty sake, gathering area and length in the same way as in the literature.  
+The following repository is home to the code used for the image analysis of **Improved handling and embedding schemes for cultured murine neuroretinal explants**. The code has been modified for reproducibilty sake, gathering area and length in the same way as in the literature.  
 
 ## Requirements
 
